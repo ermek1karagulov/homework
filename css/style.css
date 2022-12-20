@@ -1,0 +1,31 @@
+.write {
+  margin: 0 auto;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  background-color: rgb(105, 122, 105);
+}
+input {
+  cursor: pointer;
+  /* border-radius: 10px; */
+  width: 300px;
+  height: 30px;
+}
+.inputs {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.btn {
+  cursor: pointer;
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+  margin-left: 40px;
+}
+.header {
+  list-style-type: none;
+}
